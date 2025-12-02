@@ -1,0 +1,29 @@
+# Signal Over Noise Dark Theme
+# Mid-century modern, retro-futuristic aesthetic
+# Brand colors: Teal, Burnt Orange, Cream, Sage Green, Navy, Mustard
+
+# ANSI Colors (0-7: normal, 8-15: bright)
+palette = 0=#1A1A1A
+palette = 1=#EF6351
+palette = 2=#88AB8E
+palette = 3=#E5B945
+palette = 4=#1B9AAA
+palette = 5=#B57EDC
+palette = 6=#5FBDBD
+palette = 7=#D4CFC4
+palette = 8=#3D3D3D
+palette = 9=#F4806F
+palette = 10=#A3C4A3
+palette = 11=#EEC95E
+palette = 12=#2EAFBC
+palette = 13=#C99BE8
+palette = 14=#7DD1D1
+palette = 15=#F7F4EA
+
+# Core colors
+background = #1A1A1A
+foreground = #F7F4EA
+cursor-color = #EF6351
+cursor-text = #1A1A1A
+selection-background = #2C3E50
+selection-foreground = #F7F4EA

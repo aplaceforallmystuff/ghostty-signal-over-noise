@@ -63,7 +63,7 @@ theme = light:signal-over-noise-light,dark:signal-over-noise-dark
 
 ## About Signal Over Noise
 
-[Signal Over Noise](https://signalovernoise.email) is a weekly AI newsletter by Jim Christian, focused on practical AI implementation over hype.
+[Signal Over Noise](https://go.signalovernoise.at) is a weekly AI newsletter by Jim Christian, focused on practical AI implementation over hype.
 
 The theme reflects the brand's mid-century modern, retro-futuristic aesthetic.
 

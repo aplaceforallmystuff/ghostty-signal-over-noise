@@ -1,29 +1,29 @@
-# Signal Over Noise Light Theme
-# Mid-century modern, retro-futuristic aesthetic
-# Brand colors: Teal, Burnt Orange, Cream, Sage Green, Navy, Mustard
+# Signal Over Noise – Light (Paper)
+# Ink on cream paper with one accent, from the Signal Over Noise style guide (signalovernoise.at, 7 Nov 2026).
+# One accent only: red marks what matters (errors, directories, the cursor). Every other ANSI colour is a
+# shade of ink, so green/yellow/blue/magenta/cyan output reads as plain text by design.
 
-# ANSI Colors (0-7: normal, 8-15: bright)
-palette = 0=#1A1A1A
-palette = 1=#D94535
-palette = 2=#6B8E6B
-palette = 3=#C9A030
-palette = 4=#157A88
-palette = 5=#8E5CB5
-palette = 6=#1B9AAA
-palette = 7=#4A4A4A
-palette = 8=#5A5A5A
-palette = 9=#EF6351
-palette = 10=#88AB8E
-palette = 11=#E5B945
-palette = 12=#1B9AAA
-palette = 13=#B57EDC
-palette = 14=#2EAFBC
-palette = 15=#2C3E50
-
-# Core colors
 background = #F7F4EA
 foreground = #1A1A1A
-cursor-color = #EF6351
+cursor-color = #B8412F
 cursor-text = #F7F4EA
-selection-background = #1B9AAA
-selection-foreground = #F7F4EA
+selection-background = #E3DFD5
+selection-foreground = #1A1A1A
+
+# 0-7 normal, 8-15 bright
+palette = 0=#1A1A1A
+palette = 1=#B8412F
+palette = 2=#4A4A4A
+palette = 3=#4A4A4A
+palette = 4=#B8412F
+palette = 5=#4A4A4A
+palette = 6=#4A4A4A
+palette = 7=#6B6B6B
+palette = 8=#4A4A4A
+palette = 9=#8F2F20
+palette = 10=#2D2D2D
+palette = 11=#2D2D2D
+palette = 12=#8F2F20
+palette = 13=#2D2D2D
+palette = 14=#2D2D2D
+palette = 15=#6B6B6B
